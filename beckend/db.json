@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SSD Kingston",
+      "price": 249.5
+    },
+    {
+      "id": 2,
+      "name": "Monitor AOC",
+      "price": 729
+    },
+    {
+      "id": 3,
+      "name": "Mouse óptico",
+      "price": 49.9
+    },
+    {
+      "name": "Teclado ergonômico",
+      "price": 129.98,
+      "id": 4
+    }
+  ]
+}

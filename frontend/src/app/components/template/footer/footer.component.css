@@ -1,0 +1,12 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* > define a estrutura apenas no span direto */
+.footer > span {
+    font-weight: 300;
+    font-size: 0.9rem;
+}
