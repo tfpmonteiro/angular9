@@ -1,6 +1,10 @@
 <mat-card class="home mat-elevation-z3">
-    <mat-card-title class="title">Bem Vindo!</mat-card-title>
-    <mat-card-subtitle class="subtitle">
-        Sistema para exempleficar a construção de uma cadastro utilizando Angular9.
-    </mat-card-subtitle>
+  <mat-card-title class="title">Bem Vindo!</mat-card-title>
+  <mat-card-subtitle class="subtitle">
+    Sistema para exempleficar a construção de uma cadastro utilizando:
+  </mat-card-subtitle>
+
+  <ul class="list">
+    <li *myFor="let n; em: stack">{{ n }}</li>
+  </ul>
 </mat-card>
