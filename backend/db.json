@@ -19,6 +19,16 @@
       "name": "Teclado ergonômico",
       "price": 129.98,
       "id": 4
+    },
+    {
+      "name": "Teclado bluetooth",
+      "price": 198.8,
+      "id": 5
+    },
+    {
+      "name": "Notebook Ideapad S145",
+      "price": "2499.00",
+      "id": 6
     }
   ]
 }
