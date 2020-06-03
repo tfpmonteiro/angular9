@@ -30,6 +30,7 @@ import { ProductReadComponent } from "./components/product/product-read/product-
 // Colocar os valores dos produtos no padrão PT-BR
 import localePt from "@angular/common/locales/pt";
 import { registerLocaleData } from "@angular/common";
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 
 registerLocaleData(localePt);
 
@@ -45,6 +46,7 @@ registerLocaleData(localePt);
     ForDirective,
     ProductCreateComponent,
     ProductReadComponent,
+    ProductUpdateComponent,
   ],
   imports: [
     BrowserModule,
