@@ -7,8 +7,15 @@
 
 .home .subtitle {
     font-size: 1.1rem;
+    margin-top: 20px;
 }
 
 .list {
     font-size: 1.1rem;
+    color: rgb(114, 114, 114);
+}
+
+.list li {
+    margin-bottom: 5px;
+    font-size: 14px;
 }

@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "SSD Kingston",
-      "price": 249.5
+      "price": "230"
     },
     {
       "id": 2,
@@ -27,8 +27,13 @@
     },
     {
       "name": "Notebook Ideapad S145",
-      "price": "2499.00",
+      "price": "2419.00",
       "id": 6
+    },
+    {
+      "name": "Suporte para notebook",
+      "price": "62.98",
+      "id": 8
     }
   ]
 }
